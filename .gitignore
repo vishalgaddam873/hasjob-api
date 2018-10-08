@@ -1,0 +1,9 @@
+*.sqlite3
+*.pyc
+__pycache__
+/bin
+/lib
+/include
+/share
+/static
+.DS_Store
